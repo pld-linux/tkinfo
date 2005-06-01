@@ -20,15 +20,12 @@ hypertext format which is used by the GNU project. Can also be
 embedded into other Tcl/Tk programs.
 
 %description -l pl
-Bazujaca na Tcl/Tk przegl±darka dokumentacji hipertekstowej info
+Oparta na Tcl/Tk przegl±darka dokumentacji hipertekstowej info
 u¿ywanej przez projekt GNU. Mo¿e byæ równie¿ wbudowana w inne programy
 Tcl/Tk.
 
 %prep
 %setup -q
-
-%build
-# keep empty %%build section for builder script
 
 %install
 rm -rf $RPM_BUILD_ROOT
