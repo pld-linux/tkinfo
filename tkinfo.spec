@@ -1,5 +1,5 @@
 Summary:	TkInfo - a browser for info files
-Summary(pl.UTF-8):   TkInfo - przeglądarka plików info
+Summary(pl.UTF-8):	TkInfo - przeglądarka plików info
 Name:		tkinfo
 Version:	2.8
 Release:	0.1
