@@ -1,5 +1,5 @@
 Summary:	TkInfo - a browser for info files
-Summary(pl):	TkInfo - przegl±darka plików info
+Summary(pl.UTF-8):   TkInfo - przeglÄ…darka plikÃ³w info
 Name:		tkinfo
 Version:	2.8
 Release:	0.1
@@ -19,9 +19,9 @@ A graphical Tcl/Tk-based browser for documentation in the info
 hypertext format which is used by the GNU project. Can also be
 embedded into other Tcl/Tk programs.
 
-%description -l pl
-Oparta na Tcl/Tk przegl±darka dokumentacji hipertekstowej info
-u¿ywanej przez projekt GNU. Mo¿e byæ równie¿ wbudowana w inne programy
+%description -l pl.UTF-8
+Oparta na Tcl/Tk przeglÄ…darka dokumentacji hipertekstowej info
+uÅ¼ywanej przez projekt GNU. MoÅ¼e byÄ‡ rÃ³wnieÅ¼ wbudowana w inne programy
 Tcl/Tk.
 
 %prep
